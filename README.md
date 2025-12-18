@@ -66,7 +66,7 @@ _Comprehensive healthcare solution for managing patient records with secure API 
 
 ---
 
-⭐️ _From [harshita-lohumi](https://github.com/harshita-lohumi)_
+⭐️ _From [harshita-lohumi](https://github.com/Harshitalohumi)_
 
 <!---
 Harshitalohumi/Harshitalohumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
