@@ -55,7 +55,7 @@ _Comprehensive healthcare solution for managing patient records with secure API 
 ## 🤝 Let's Connect
 
 💼 **LinkedIn**: [linkedin.com/in/harshita-lohumi](https://linkedin.com/in/harshita-lohumi)  
-📧 **Email**: lohuminarshita@gmail.com  
+📧 **Email**: lohumiharshita@gmail.com  
 📍 **Location**: Haldwani, Uttarakhand, India
 
 ## 💡 Open for
