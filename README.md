@@ -54,7 +54,7 @@ _Comprehensive healthcare solution for managing patient records with secure API 
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn**: [linkedin.com/in/harshita-lohumi](https://linkedin.com/in/harshita-lohumi)  
+💼 **LinkedIn**: [linkedin.com/in/harshita-lohumi](https://linkedin.com/in/harshitalohumi)  
 📧 **Email**: lohumiharshita@gmail.com  
 📍 **Location**: Haldwani, Uttarakhand, India
 
@@ -66,7 +66,7 @@ _Comprehensive healthcare solution for managing patient records with secure API 
 
 ---
 
-⭐️ _From [harshita-lohumi](https://github.com/Harshitalohumi)_
+⭐️ _From [Harshita-Lohumi](https://github.com/Harshitalohumi)_
 
 <!---
 Harshitalohumi/Harshitalohumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
