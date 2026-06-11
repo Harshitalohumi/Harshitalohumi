@@ -1,6 +1,6 @@
 # Harshita Lohumi 👋
 
-🚀 **Computer Science Engineer | AI/ML Specialist | Open Source Contributor**
+🚀 **Computer Science Engineer | AI/ML | Open Source Contributor**
 
 Passionate developer with expertise in building intelligent systems and scalable applications. Specializing in Artificial Intelligence, Machine Learning, and Full-Stack Development with a focus on creating impactful, real-world solutions.
 
